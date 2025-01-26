@@ -9,9 +9,17 @@
 
 ###
 
+<p align="left">My Social Media</p>
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+###
+
+<p align="left">My Tech Stack</p>
 
 ###
 
@@ -41,8 +49,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ClayS21/ClayS21/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ClayS21/count.svg?"  />
+</div>
 
 ###
